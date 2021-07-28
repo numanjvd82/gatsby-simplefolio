@@ -31,16 +31,6 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'Project.PNG',
-    title: 'Youtube Clone',
-    info:
-      'Youtube Clone made with youtube api. Also integrated with youtube player. Included with a search functionalty',
-    info2: '',
-    url: 'https://fervent-hawking-04bbf2.netlify.app/',
-    repo: 'https://github.com/numanjvd82/yt-clone', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'Project1.PNG',
     title: 'Github Profile Lookup',
     info:
