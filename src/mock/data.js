@@ -31,6 +31,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'Project6.PNG',
+    title: 'React-Commerce',
+    info: 'A E-Commerce website made with React,Redux and Chakra UI with integrated Cart',
+    info2: '',
+    url: 'https://react-commerce-v1.netlify.app/',
+    repo: 'https://github.com/numanjvd82/react-e-commerce-web', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'Project.PNG',
     title: 'Youtube Clone',
     info:
