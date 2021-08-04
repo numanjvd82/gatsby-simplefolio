@@ -75,7 +75,7 @@ export const projectsData = [
     info:
       'My Own Task Planner app made with React, React Context API and completely responseive to all devices.',
     info2: '',
-    url: 'https://todo-listv2.netlify.app/',
+    url: 'https://todo-listv3.netlify.app/',
     repo: 'https://github.com/numanjvd82/todo-list-v2', // if no repo, the button will not show up
   },
   {
